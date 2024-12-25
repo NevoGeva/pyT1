@@ -1,5 +1,5 @@
 ### this project is going to answer the questions from the test in the class.
-### curd
+### curd :
 # create - done
 # update - don't remember how to do
 # read - done
